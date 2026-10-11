@@ -1,5 +1,16 @@
 # 👋✨🌟 Hey, I'm Zoltex ⚡🚀🔥💯🫡👑
 
+### 👑 Founder & CEO | 🧠 Visionary | 🚀 Serial Entrepreneur | 🤖 AI Engineer | 🔐 Elite Hacker | 💼 Thought Leader | 🌍 Changemaker | 📈 Growth Hacker | 🎤 Keynote Speaker (soon™)
+
+> 🏢 Ex-Google (I visited google.com) 🔍
+> 🍎 Ex-Apple (I had an iPhone 6) 📱
+> 🪟 Ex-Microsoft (I use Windows) 💻
+> 📘 Ex-Meta (I had a Facebook account) 👍
+> 🎓 Harvard dropout (never applied) 🎓❌
+> 🏆 Top 0.01% developer worldwide (source: me) 🌍
+> 💰 Built a $10M startup in my head 🧠💸
+> 🎙️ Featured in: my Discord server 📰
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&width=600&lines=Developer+%F0%9F%92%BB;Discord+bot+enjoyer+%F0%9F%A4%96;Future+cybersecurity+guy+%F0%9F%94%90;I+break+things+(on+purpose)+%F0%9F%94%A8;Professional+bug+creator+%F0%9F%90%9B;Full+stack+(of+problems)+%F0%9F%A5%9E;Powered+by+coffee+%E2%98%95;10x+developer+(0.1x+on+Mondays)+%F0%9F%93%89;Visionary+%F0%9F%91%81%EF%B8%8F;Serial+entrepreneur+%F0%9F%92%BC)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Zoltex999&color=blueviolet&style=flat)
@@ -37,6 +48,22 @@
 ![Startup](https://img.shields.io/badge/startup-founder%20(of%20ideas)-ff69b4?style=flat)
 ![Unicorn](https://img.shields.io/badge/valuation-%241B%20🦄-pink?style=flat)
 ![Main character](https://img.shields.io/badge/main%20character-yes-gold?style=flat)
+![CEO](https://img.shields.io/badge/CEO-of%20my%20room-black?style=flat)
+![Thought leader](https://img.shields.io/badge/thought%20leader-certified%20🧠-blue?style=flat)
+![Top 1%](https://img.shields.io/badge/top-0.01%25%20dev-gold?style=flat)
+![FAANG](https://img.shields.io/badge/ex-FAANG%20(visited)-red?style=flat)
+![Speed](https://img.shields.io/badge/typing%20speed-300%20WPM-brightgreen?style=flat)
+![Problems](https://img.shields.io/badge/problems%20solved-all%20of%20them-success?style=flat)
+![Genius](https://img.shields.io/badge/genius-misunderstood%20🎭-purple?style=flat)
+![Prod](https://img.shields.io/badge/deployed%20to-prod%20on%20friday%20💀-critical?style=flat)
+![ChatGPT](https://img.shields.io/badge/prompt%20engineer-senior-10a37f?style=flat)
+![Alpha](https://img.shields.io/badge/alpha-developer%20🐺-gray?style=flat)
+![NFT](https://img.shields.io/badge/NFT-collector%20🖼️-ff69b4?style=flat)
+![Metaverse](https://img.shields.io/badge/metaverse-early%20adopter-blueviolet?style=flat)
+![Crypto](https://img.shields.io/badge/crypto-to%20the%20moon%20🌕-yellow?style=flat)
+![Influencer](https://img.shields.io/badge/tech-influencer%20📸-E4405F?style=flat)
+![Legend](https://img.shields.io/badge/status-legendary%20🏆-gold?style=flat)
+![GOAT](https://img.shields.io/badge/the-GOAT%20🐐-white?style=flat)
 
 > 💡 *"It works on my machine"* 🖥️✅
 > 🧠 *"Code is like a joke, if you have to explain it, it's bad."* — me, explaining my code 😭
@@ -208,6 +235,11 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zoltex999&theme=react-dark&hide_border=true)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Zoltex999&theme=radical&no-frame=true&row=2&column=6)
 ![Snake](https://raw.githubusercontent.com/Zoltex999/Zoltex999/output/github-contribution-grid-snake.svg)
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zoltex999&theme=radical)
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zoltex999&theme=radical)
+![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zoltex999&theme=radical)
+![Summary stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zoltex999&theme=radical)
+![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zoltex999&theme=radical&utcOffset=1)
 
 > 📉 contributions graph = my sleep schedule 💀
 > 🟩 green squares = happiness 🟩🟩⬛⬛⬛🟩

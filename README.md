@@ -11,6 +11,7 @@
 ![Bugs](https://img.shields.io/badge/bugs-features%20🐛-orange?style=flat)
 ![Aura](https://img.shields.io/badge/aura-%2B9999-blueviolet?style=flat)
 ![Build](https://img.shields.io/badge/build-passing%3F-yellow?style=flat)
+![Tabs](https://img.shields.io/badge/chrome%20tabs-147-blue?style=flat)
 
 > 💡 *"It works on my machine"* 🖥️✅
 > 🧠 *"Code is like a joke, if you have to explain it, it's bad."* — me, explaining my code 😭
@@ -23,17 +24,19 @@
 - 🌐 My website ➡️➡️ [zoltex.xyz](https://zoltex.xyz) 🔗🔥
 - 🔐 Super into **cybersecurity** 🕵️‍♂️🛡️💀
   - 🔓 I don't hack you, I hack *with* you 🤝
+  - 🧅 Ask me about CTFs (I'll pretend I finished one) 🏁
 - 🎓 Going for an IT apprenticeship (infra & ops) 🖧📡
+- 🗣️ Languages: 🇫🇷 French, 🇬🇧 English, 🟨 JavaScript
 - 🌱 Currently learning:
   - 🐧 Linux (I use Windows btw) 🪟
   - 🌍 Networking (my Wi-Fi still doesn't work) 📶❌
+  - 🐳 Docker (it works in the container, not outside) 📦
   - 🤔 Why my code works
   - 😰 Why my code doesn't work
 - 🌙 Most productive at 3 AM ☕☕☕
 - ⏱️ "5 min fix" ➡️ 6 hours later 🕐🕑🕒🕓🕔🕕
 - 🐛 Fun fact: I fix one bug, two more spawn 🐛🐛
 - 🧠 Ask me about: anything (I'll google it) 🔍
-- ⚡ Fun fact 2: there is no fun fact 2
 
 ---
 
@@ -50,6 +53,17 @@
 - 🗄️ Database: a JSON file 📄 (it's fine) 🔥🐶☕
 - 🧪 Testing: production 🚀
 - 🔧 git: `git commit -m "fix"` ×47 📝
+- 📦 `node_modules`: heavier than the universe 🌌
+
+---
+
+## 🖥️🎧 My setup 🎧🖥️
+
+- 🪟 Windows 11 (forever) 🔒
+- 💜 VS Code with 63 extensions (I use 2) 🧩
+- ⌨️ PowerShell (yes, PowerShell) 💙
+- 🌙 Dark mode everywhere, light mode is a crime 🚨
+- 🎵 Lo-fi beats to debug/cry to 🎶😭
 
 ---
 
@@ -66,10 +80,24 @@
 
 ---
 
+## 📝💀 My best commit messages 💀📝
+
+- `fix`
+- `fix 2`
+- `fix fix`
+- `ok now it works`
+- `it did not work`
+- `pls`
+- `final version`
+- `final version (real)` 🙏
+
+---
+
 ## 📊📈 Stats 📈📊
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Zoltex999&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoltex999&layout=compact&theme=radical&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=Zoltex999&theme=radical&hide_border=true)
 
 > 📉 contributions graph = my sleep schedule 💀
 
@@ -80,8 +108,10 @@
 - [x] 🌐 Make a website
 - [x] 🤖 Make a Discord bot
 - [x] 📝 Make this README
+- [x] 🎨 Add 300 emojis to this README
 - [ ] 😴 Sleep
 - [ ] 🐛 0 bugs
+- [ ] 🧹 Close my Chrome tabs
 - [ ] 🧑‍💻 Touch grass 🌱
 
 ---
